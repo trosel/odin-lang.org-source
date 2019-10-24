@@ -1,5 +1,9 @@
 This is the repository for the Odin website code.
 
+![](https://user-images.githubusercontent.com/1299322/67287265-c2b78180-f4a8-11e9-8dc8-aeef4411a70d.png)
+
+![](https://user-images.githubusercontent.com/1299322/67287102-75d3ab00-f4a8-11e9-873c-dde50b8f03b4.png)
+
 To contribute:
 
 1. Fork this repo
